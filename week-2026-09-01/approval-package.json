@@ -1,0 +1,32 @@
+{
+  "week": "week-2026-09-01",
+  "approval_dates": {
+    "tuesday": "2026-09-01",
+    "thursday": "2026-09-03",
+    "weekend": "2026-09-05/06"
+  },
+  "tuesday_carousel": {
+    "topic": "EP.17 - The Choice Cost",
+    "caption": "More choice does not automatically create a better customer experience.\n\nSometimes it creates hesitation.\n\nIyengar and Lepper’s well-known field experiment found that a larger display attracted more attention, while the smaller selection produced more purchases. Later research showed that choice overload is not universal. It becomes more likely when the decision is difficult, the options are complex or the customer is unsure what matters.\n\nThat distinction is important.\n\nI do not believe businesses should simply remove choices. I believe they should measure whether customers can navigate those choices confidently.\n\nCan they understand the differences?\n\nDoes the employee ask enough questions before recommending an option?\n\nAre comparisons clear?\n\nDoes the customer reach a decision, or leave with more uncertainty than they arrived with?\n\nAt GWR, my team observes the complete decision journey: time, questions, guidance, hesitation and outcome. That turns a vague complaint such as “the process feels complicated” into evidence that management can act on.\n\nChoice creates value only when the customer can use it.\n\nSources:\nIyengar, S. S., & Lepper, M. R. (2000). “When Choice Is Demotivating: Can One Desire Too Much of a Good Thing?” Journal of Personality and Social Psychology, 79(6), 995–1006.\nChernev, A., Böckenholt, U., & Goodman, J. (2015). “Choice Overload: A Conceptual Review and Meta-Analysis.” Journal of Consumer Psychology, 25(2), 333–358.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #CXStrategy #ServiceDesign #ChoiceArchitecture #CXEvidence\n\nWhere does choice become friction in your customer journey?",
+    "images": [
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_01.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_02.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_03.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_04.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_05.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/carousel/slide_06.jpg"
+    ]
+  },
+  "thursday_post": {
+    "topic": "Field File: The Choice Test",
+    "caption": "Field File: the choice test.\n\nWhen my team evaluates a journey with several options, we do not only check whether the employee described them accurately.\n\nWe observe whether the employee helped the customer decide.\n\nDid they ask what mattered?\n\nDid they narrow the options?\n\nDid they explain the differences in practical terms?\n\nDid they confirm that the recommendation matched the customer’s needs?\n\nA complete explanation can still be a poor experience when it transfers all the decision effort back to the customer.\n\nThis is why I separate product knowledge from decision guidance. One proves that the employee knows the offer. The other proves that they can use that knowledge to help a real person move forward.\n\nMystery shopping makes that difference visible. We record the questions asked, the comparison provided, the recommendation made and the customer’s resulting confidence.\n\n#CustomerExperience #GWRConsulting #FieldFiles #MysteryShopping #ServiceDesign #CXOperations #CXEvidence\n\nDoes your team explain every option, or help customers choose the right one?",
+    "image": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/thursday-field-file-choice-test.jpg"
+  },
+  "weekend_reel": {
+    "topic": "The Choice Cost reel cut",
+    "caption": "More options can attract attention without helping the customer decide.\n\nI look for the point where choice becomes effort: too many comparisons, unclear differences and no confident recommendation.\n\nAt GWR, my team measures that friction across the real journey. We observe the questions asked, the guidance provided and whether the customer can take the next step with confidence.\n\nThat is how we turn customer experience from opinion into evidence.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #CXStrategy #ServiceDesign #ChoiceArchitecture #CXEvidence\n\nWhere does your customer journey offer more choice than guidance?",
+    "video": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/weekend-ep17-choice-cost-reel.mp4",
+    "thumbnail": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/weekend-ep17-choice-cost-thumb.jpg"
+  },
+  "approval_preview": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-01/telegram-approval-preview.jpg"
+}
