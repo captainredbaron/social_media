@@ -1,0 +1,33 @@
+{
+  "week": "week-2026-09-15",
+  "approval_dates": {
+    "tuesday": "2026-09-15",
+    "thursday": "2026-09-17",
+    "weekend": "2026-09-19/20"
+  },
+  "tuesday_carousel": {
+    "topic": "The Fairness Test",
+    "caption": "Most service recovery fails because the company answers the wrong question.\n\nThe customer is not only asking, \"Did you fix it?\"\n\nThey are asking three questions at the same time.\n\nWas the outcome fair?\nWas the process fair?\nWas I treated with respect while the issue was handled?\n\nService recovery research has been clear on this for decades. Tax, Brown and Chandrashekaran showed that customers judge complaint handling through multiple forms of justice: distributive, procedural and interactional.\n\nThat distinction matters.\n\nA refund can still feel unfair if the customer had to chase five times.\n\nAn apology can still fail if the process feels slow, defensive or unclear.\n\nA policy can be technically correct and still damage trust if the customer feels dismissed.\n\nThis is why I do not like recovery audits that only ask whether a complaint was closed. Closure is an internal status. Fairness is the customer experience.\n\nAt GWR, my team looks at the full recovery path: ownership, timing, explanation, tone, evidence and final outcome. That is how a complaint log becomes a diagnostic tool.\n\nService recovery is not finished when the case is closed.\n\nIt is finished when the customer can say the outcome, process and treatment were fair.\n\nWhich part of your recovery journey fails most often: outcome, process or respect?\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShoppingInsights #ServiceRecovery #CXLeadership #ServiceGovernance",
+    "images": [
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_01.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_02.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_03.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_04.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_05.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/slide_06.jpg"
+    ]
+  },
+  "thursday_post": {
+    "topic": "Field File: The closed complaint that still felt unresolved",
+    "caption": "Field File: the closed complaint that still felt unresolved.\n\nA customer reported a simple service issue.\n\nThe team apologized. A small adjustment was offered. The case was marked closed.\n\nOn paper, the recovery was complete.\n\nIn the customer's words, it was not.\n\nWhy?\n\nBecause nobody explained why the issue happened. Nobody confirmed what would change. Nobody owned the next step.\n\nThe outcome was acceptable, but the process did not feel fair.\n\nThat is a common recovery blind spot. Operations often closes the visible case while leaving the emotional case open.\n\nIn mystery shopping, we separate those signals. Was there ownership? Was the explanation clear? Was the timing reasonable? Did the customer feel respected, or merely processed?\n\nThose details decide whether recovery rebuilds confidence or simply ends the conversation.\n\nWhere are your complaint reports showing \"closed\" while customers still feel unconvinced?\n\n#CustomerExperience #GWRConsulting #MysteryShoppingInsights #CXLeadership #ServiceGovernance #FieldFile",
+    "image": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/thursday-field-file.jpg"
+  },
+  "weekend_reel": {
+    "topic": "The Fairness Test",
+    "caption": "Weekend cut from the CX Series: The Fairness Test.\n\nA closed complaint is not always a recovered customer.\n\nCustomers judge three things:\n\nWas the outcome fair?\nWas the process fair?\nWas I treated with respect?\n\nIf one of those fails, recovery stays incomplete.\n\nWhich part of your complaint journey needs the most work?\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShoppingInsights #ServiceRecovery #ServiceGovernance",
+    "video": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/ep18_fairness_test_reel.mp4"
+  },
+  "previews": {
+    "contact_sheet": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-15/contact-sheet.jpg"
+  }
+}
