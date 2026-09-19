@@ -1,0 +1,34 @@
+{
+  "week": "week-2026-09-22",
+  "approval_dates": {
+    "tuesday": "2026-09-22",
+    "thursday": "2026-09-24",
+    "weekend": "2026-09-26/27"
+  },
+  "tuesday_carousel": {
+    "topic": "The Trust Leak",
+    "caption": "Trust rarely disappears in one dramatic failure.\n\nIt usually leaks through small signals.\n\nA promise that is not remembered.\nA handoff that forces the customer to repeat the story.\nA confident answer that later changes.\nA delay with no ownership.\n\nEach one looks minor in isolation. Together, they tell the customer something more serious: the system may not be reliable.\n\nMayer, Davis and Schoorman described trust as a judgement built on ability, benevolence and integrity. In service operations, those are not abstract ideas. Customers read them through evidence.\n\nAbility: do you know what you are doing?\nBenevolence: are you acting in my interest?\nIntegrity: do your actions match what you promised?\n\nThat is why I do not like CX reports that only say \"standard met\" or \"standard missed.\" The management question is sharper: what did this moment teach the customer about whether the brand can be trusted?\n\nAt GWR, my team uses mystery shopping as an early-warning instrument. We look for the small operational signals that quietly weaken confidence before they become complaints.\n\nBecause when trust leaks, the customer may still smile, pay and leave.\n\nThey just become less certain they should come back.\n\nWhere is trust leaking quietly in your customer journey?\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShoppingInsights #ServiceQuality #CXLeadership #ServiceGovernance",
+    "images": [
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_01.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_02.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_03.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_04.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_05.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/slide_06.jpg"
+    ]
+  },
+  "thursday_post": {
+    "topic": "Field File: The customer had to repeat the story three times",
+    "caption": "Field File: the customer had to repeat the story three times.\n\nThe issue was not complicated.\n\nA customer made a request, explained the context, and was transferred to another team member.\n\nThen the story had to be repeated.\n\nThen repeated again.\n\nNobody was rude. Nobody refused to help. The final answer was acceptable.\n\nBut confidence still dropped.\n\nWhy?\n\nBecause every repeated explanation told the customer the system was not listening.\n\nThis is one of the quietest trust leaks in service operations. It rarely appears as a formal complaint, but it changes how safe the customer feels relying on the brand.\n\nIn mystery shopping, we track these handoff moments separately: was context carried forward, was ownership clear, did the next person know enough to continue without making the customer restart?\n\nThe service may finish correctly and still feel fragile.\n\nWhere do your customers have to restart the conversation?\n\n#CustomerExperience #GWRConsulting #MysteryShoppingInsights #FieldFile #ServiceQuality #CXLeadership #ServiceGovernance",
+    "image": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/thursday-field-file.jpg"
+  },
+  "weekend_reel": {
+    "topic": "The Trust Leak",
+    "caption": "Weekend cut from the CX Series: The Trust Leak.\n\nTrust does not usually collapse.\n\nIt leaks.\n\nA forgotten promise.\nA repeated story.\nA handoff with no ownership.\nA confident answer that later changes.\n\nThose small signals teach the customer whether the system is reliable.\n\nWhere is trust leaking quietly in your journey?\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShoppingInsights #ServiceQuality #ServiceGovernance",
+    "video": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/ep19_trust_leak_reel.mp4",
+    "thumbnail": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/weekend-ep19-trust-leak-thumb.jpg"
+  },
+  "previews": {
+    "contact_sheet": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-22/contact-sheet.jpg"
+  }
+}
