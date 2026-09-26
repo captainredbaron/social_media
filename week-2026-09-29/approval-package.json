@@ -1,0 +1,35 @@
+{
+  "week": "week-2026-09-29",
+  "approval_dates": {
+    "tuesday": "2026-09-29",
+    "thursday": "2026-10-01",
+    "weekend": "2026-10-03/04"
+  },
+  "tuesday_carousel": {
+    "topic": "The Zone of Tolerance",
+    "linkedin_caption": "Not every service failure has the same weight.\n\nThat is why I like the Zone of Tolerance as a CX framework. It forces leaders to stop treating every metric as equal.\n\nA guest may tolerate a short wait if the team communicates clearly.\nThey may tolerate a missing item if recovery is fast and accountable.\nThey may not tolerate uncertainty, indifference, or a handoff where nobody owns the answer.\n\nThe executive question is not \"Did we meet the standard?\"\n\nIt is sharper than that:\n\nWhere does the guest move from patient to disappointed?\n\nThat threshold is where mystery shopping becomes useful as an instrument. It gives leadership evidence on which failures matter most, which standards need governance, and where the prescription should focus.\n\nAverage scores are comfortable. Thresholds are operational.\n\nAnd in CX, the threshold is where the decision is made.\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShopping #ServiceExcellence #CXGovernance #CustomerInsights\n\nWhere does your customer's tolerance usually break?",
+    "instagram_caption": "Some service misses are forgiven. Others change the whole memory.\n\nThe Zone of Tolerance helps us separate what guests can accept from what they will not excuse.\n\nThat is where mystery shopping becomes more than a score. It becomes a diagnostic.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #CXStrategy #ServiceExcellence #CustomerInsights\n\nWhere does your customer's tolerance usually break?",
+    "images": [
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_01.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_02.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_03.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_04.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_05.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/slide_06.jpg"
+    ]
+  },
+  "thursday_post": {
+    "topic": "Field File: The Handoff That Lost The Visit",
+    "caption": "Field File: The Handoff That Lost The Visit.\n\nI reviewed an anonymized mystery shop recently where the issue was not the first answer.\n\nIt was the handoff.\n\nThe guest asked a reasonable question. The first team member did not know the answer, which can happen. The problem came next: the guest was sent to a second colleague, then a third, with no ownership, no explanation, and no clear close.\n\nBy the end, the guest had not received a terrible answer.\n\nThey had received no answer.\n\nThat matters because customers often tolerate delay when they can see accountability. What they do not tolerate is being passed around without a visible owner.\n\nFor leadership, the recommendation is simple:\n\nMeasure handoffs as a service behaviour, not an operational footnote.\n\nA good handoff has three parts:\nOwnership. Context. Closure.\n\nWithout those, the customer is not moving through a service journey. They are being transferred through uncertainty.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #CXGovernance #ServiceExcellence #CustomerInsights\n\nWhere do handoffs break most often in your customer experience?",
+    "image": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/thursday-field-file-handoff-lost-visit.jpg"
+  },
+  "weekend_reel": {
+    "topic": "The Zone of Tolerance",
+    "caption": "Not every miss carries the same risk.\n\nThe Zone of Tolerance helps leadership see which service failures customers forgive, and which ones quietly damage trust.\n\nThat is why mystery shopping should not be treated as a checklist. It is a diagnostic instrument for thresholds, governance, and executive recommendation.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #CXStrategy #CXGovernance #ServiceExcellence\n\nWhere does your customer stop tolerating the experience?",
+    "video": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/weekend-ep05-zone-of-tolerance-reel.mp4",
+    "thumbnail": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/weekend-ep05-zone-of-tolerance-thumb.jpg"
+  },
+  "previews": {
+    "contact_sheet": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-09-29/contact-sheet.jpg"
+  }
+}
