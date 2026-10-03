@@ -1,0 +1,35 @@
+{
+  "week": "week-2026-10-06",
+  "approval_dates": {
+    "tuesday": "2026-10-06",
+    "thursday": "2026-10-08",
+    "weekend": "2026-10-10/11"
+  },
+  "tuesday_carousel": {
+    "topic": "Service Recovery Justice",
+    "linkedin_caption": "When a service failure happens, customers do not only judge the outcome.\n\nThey judge the fairness of the recovery.\n\nDid someone take ownership?\nWas the explanation clear?\nWas the correction proportionate?\nWas the customer treated with respect while the issue was handled?\n\nThat is why service recovery is not a soft skill. It is governance.\n\nThe research on perceived justice in service recovery is useful because it separates the recovery into three practical questions:\n\nOutcome: what did we do to fix it?\nProcess: how easy was it for the customer to get help?\nInteraction: how did we make the customer feel while fixing it?\n\nIn mystery shopping, my team looks for all three.\n\nA refund with a cold tone can still damage confidence.\nA warm apology with no correction can still feel empty.\nA good process with no owner can still feel exhausting.\n\nThe point is not to recover every mistake with generosity. The point is to recover with discipline.\n\nBecause after a failure, the customer is not asking whether the brand is perfect.\n\nThey are asking whether the brand is fair.\n\n#CustomerExperience #GWRConsulting #CXStrategy #MysteryShopping #ServiceRecovery #CXGovernance #CustomerInsights\n\nWhere does your recovery process feel fair, and where does it only feel procedural?",
+    "instagram_caption": "Service recovery is not just about fixing the issue.\n\nCustomers judge whether the recovery felt fair.\n\nOutcome. Process. Interaction.\n\nThat is where mystery shopping gives leaders better evidence than a simple complaint log.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #ServiceRecovery #CXStrategy #CXGovernance\n\nWhere does your recovery process feel fair, and where does it only feel procedural?",
+    "images": [
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_01.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_02.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_03.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_04.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_05.jpg",
+      "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/slide_06.jpg"
+    ]
+  },
+  "thursday_post": {
+    "topic": "Data Drop: Closed Is Not Recovered",
+    "caption": "Data Drop: complaint closure is not the same as customer recovery.\n\nMany operations track whether the case was closed.\n\nThat is useful, but incomplete.\n\nA closed case can still leave the customer feeling that the process was slow, the explanation was thin, or the ownership was unclear.\n\nThat is why I prefer recovery measurement to include three separate checks:\n\n1. Outcome - was the correction appropriate?\n2. Process - was it easy to reach a resolution?\n3. Interaction - was the customer treated with respect?\n\nWhen those are combined into one generic \"resolved\" status, leadership loses the diagnostic value.\n\nThe danger is obvious: the dashboard shows closure, while the customer remembers effort.\n\nMystery shopping helps separate these signals. It shows whether recovery is governed as a behavior, not just logged as a ticket.\n\nClosed is an internal status.\n\nRecovered is the customer's judgement.\n\n#CustomerExperience #GWRConsulting #DataDrop #MysteryShopping #ServiceRecovery #CXGovernance #CustomerInsights\n\nWhat does your organization measure after a complaint: closure, or recovery?",
+    "image": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/thursday-data-drop-recovery-justice.jpg"
+  },
+  "weekend_reel": {
+    "topic": "Service Recovery Justice",
+    "caption": "A service failure is not the end of the story.\n\nThe recovery teaches the customer whether the brand is fair.\n\nOutcome: what changed?\nProcess: how hard was it?\nInteraction: how was I treated?\n\nThat is why recovery needs governance, not improvisation.\n\n#CustomerExperience #GWRConsulting #MysteryShopping #ServiceRecovery #CXStrategy #CXGovernance\n\nWhere does your recovery process feel fair?",
+    "video": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/weekend-ep06-service-recovery-justice-reel.mp4",
+    "thumbnail": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/weekend-ep06-service-recovery-justice-thumb.jpg"
+  },
+  "previews": {
+    "contact_sheet": "https://raw.githubusercontent.com/captainredbaron/social_media/main/week-2026-10-06/contact-sheet.jpg"
+  }
+}
